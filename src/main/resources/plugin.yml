@@ -1,0 +1,10 @@
+name: WorldManipulator
+version: ${project.version}
+main: dev.orf1.worldmanipulator.Main
+api-version: 1.16
+load: STARTUP
+commands:
+  create:
+    description: ""
+  reloadworld:
+    description: ""
